@@ -2,7 +2,7 @@
 
 Схема service mesh, в соотвесвтии с которой будем настраивать наш кластер:
 
-![Mesh configuration](../assets/sc2-3.png)
+![Mesh configuration](./assets/sc2-3.png)
 
 Установим ServiceC:
 `kubectl apply -f service-c-deployment.yml`{{execute}}

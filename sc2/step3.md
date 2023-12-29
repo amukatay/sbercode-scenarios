@@ -1,6 +1,6 @@
 На этом шаге мы настроим service mesh согласно следующей схеме:
 
-![Mesh configuration](../assets/sc2-1.png)
+![Mesh configuration](./assets/sc2-1.png)
 
 Давайте установим ServiceA:
 `kubectl apply -f serviceA-v1-deployment.yml`{{execute}}

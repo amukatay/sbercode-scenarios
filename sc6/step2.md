@@ -2,7 +2,7 @@
 
 На схеме это выглядет слудующим образом:
 
-![Mesh configuration](../assets/sc2-2.png)
+![Mesh configuration](./assets/sc2-2.png)
 
 Давайте установим ServiceA:
 `kubectl apply -f serviceA-v1-deployment.yml`{{execute}}

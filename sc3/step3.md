@@ -1,6 +1,6 @@
 На этом шаге мы установим ServiceG и настроим service mesh согласно следующей схеме:
 
-![Mesh configuration](../assets/sc3-1.png)
+![Mesh configuration](./assets/sc3-1.png)
 
 Давайте установим ServiceG:
 `kubectl apply -f service-g-deployment.yml`{{execute}}

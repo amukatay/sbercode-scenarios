@@ -2,7 +2,7 @@
 
 Схема создаваемой конфигурации сети:
 
-![Mesh configuration](../assets/scheme1-b.png)
+![Mesh configuration](./assets/scheme1-b.png)
 
 Давайте установим ServiceB:
 `kubectl apply -f service-b-deployment.yml`{{execute}}

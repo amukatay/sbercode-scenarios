@@ -1,6 +1,6 @@
 На этом шаге мы установим ServiceC и настроим service mesh согласно следующей схеме:
 
-![Mesh configuration](../assets/sc3-1.png)
+![Mesh configuration](./assets/sc3-1.png)
 
 
 Генерация сертификатов
